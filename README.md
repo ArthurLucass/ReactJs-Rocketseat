@@ -1,1 +1,3 @@
-# ReactJs-Rocketseat git init git add README.md git commit -m iniciação - React Fundamentos git branch -M main git remote add origin https://github.com/ArthurLucass/ReactJs-Rocketseat.git git push -u origin main
+![image](https://github.com/user-attachments/assets/4fd35369-c33b-49e6-a9cc-8f0b4d03f355)
+
+Repositorio para registar o aprendizado no Curso ReactJs na Rocketseat.
